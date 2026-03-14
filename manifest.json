@@ -1,0 +1,25 @@
+{
+  "name": "CyclePulse — Analizador de Rendimiento Ciclista",
+  "short_name": "CyclePulse",
+  "description": "Analiza tu rendimiento ciclista con GPX, TCX y datos manuales",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080C14",
+  "theme_color": "#080C14",
+  "categories": ["sports", "fitness", "health"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
